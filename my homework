@@ -1,0 +1,79 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNsDRU/sG+AiQtHCXXYgxNy",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/R6-cmd650/my-homework/blob/main/my%20homework\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Ty7OTBZ-mmtd",
+        "outputId": "657e3552-6517-4dcb-aaaa-693c3a34cbc5"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello, Raghad!\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"Hello, Raghad!\")"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x = 10\n",
+        "y = 6\n",
+        "result = (x * y) + 3\n",
+        "print (result)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "-UKmCtxopFyh",
+        "outputId": "a53c1e1d-6cb2-4dea-9ccd-999db829db9b"
+      },
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "63\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
